@@ -1,7 +1,7 @@
-https://github.com/bradtraversy/50projects50days.git
+https://github.com/bradtravelsy/50projects50days
+
 Tasks:
-1.create a new branch in your github repository
-2.Find one of the projects and clone it to your local repository
+1.create a new branch in your github repository                   
+2.find one of the projects and clone it to your local repository
 3.Create a new file called homework.txt and write this homework on it
 4.Push the whole content on your new branch
->>>>>>> 3d6560d (Add homework and todo-list-copy project)
